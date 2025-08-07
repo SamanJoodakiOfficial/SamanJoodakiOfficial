@@ -1,25 +1,59 @@
-<h1 align="center">سلام، من سامان هستم 👋</h1>
-<h3 align="center">توسعه‌دهنده وب | عاشق یادگیری | 👨‍💻</h3>
+<h1 align="center">سلام! من سامان هستم 👋</h1>
+<h3 align="center">🎓 دانشجوی مهندسی نرم‌افزار | 👨‍💻 در حال توسعه مهارت‌های فرانت‌اند</h3>
 
 ---
 
-### 🧑‍💻 درباره من:
+## 🧑‍🎓 درباره من:
 
-- 💼 برنامه‌نویس فرانت‌اند با تمرکز روی React و Next.js  
-- 🎯 همیشه در حال یادگیری تکنولوژی‌های جدید  
-- 🚀 علاقه‌مند به پروژه‌های متن‌باز و همکاری تیمی  
-- 📌 هدفم ساخت اپلیکیشن‌هایی با رابط کاربری جذاب و عملکرد بالا
+- 🎓 دانشجوی مهندسی نرم‌افزار در **دانشگاه ملی مهارت - مرکز ساری (امام محمد باقر)**  
+- 🌱 در حال یادگیری و توسعه مهارت‌های **توسعه رابط کاربری (Front-End Development)**  
+- 💻 علاقمند به طراحی رابط کاربری زیبا، تجربه کاربری و توسعه وب  
+- 🚀 هدفم تبدیل شدن به یک برنامه‌نویس حرفه‌ای فرانت‌اند با دانش عمیق از React و JavaScript  
+- 🤝 علاقه‌مند به همکاری در پروژه‌های متن‌باز و تیمی
 
 ---
 
-### 🛠 مهارت‌های فنی:
+## 🛠 مهارت‌ها:
 
 ```plaintext
-💻 Frontend:
-HTML • CSS • JavaScript • React • Next.js • TailwindCSS
+💻 زبان‌ها و تکنولوژی‌ها:
+HTML • CSS • JavaScript • React (در حال یادگیری)
 
-🛠 Tools:
-Git • GitHub • VS Code • Figma • Postman
+🛠 ابزارها:
+Git • GitHub • VS Code • Figma • Chrome DevTools
+📬 ارتباط با من:
+📧 جیمیل: samanjoodakiofficial@gmail.com
 
-🗄 Backend Basics:
-Node.js • Express.js • MongoDB • REST APIs
+💬 تلگرام: @Samanjoodaki2
+
+📸 اینستاگرام: @saman22doz
+
+🇬🇧 About Me (English)
+👨‍🎓 Who Am I?
+🎓 Software engineering student at National Skill University – Sari Branch (Imam Mohammad Baqir)
+
+🌱 Currently developing my skills in Front-End Development
+
+💻 Passionate about building clean UI, learning modern tools, and growing in the tech industry
+
+🚀 My goal is to become a skilled React developer with a strong foundation in JavaScript
+
+🤝 Open to collaboration and open-source contributions
+
+🧰 Tech Stack:
+plaintext
+Copy
+Edit
+Languages & Technologies:
+HTML • CSS • JavaScript • React (Learning)
+
+Tools:
+Git • GitHub • VS Code • Figma • Chrome DevTools
+📱 Contact Me:
+📧 Gmail: samanjoodakiofficial@gmail.com
+
+💬 Telegram: @Samanjoodaki2
+
+📸 Instagram: @saman22doz
+
+📊 GitHub Stats:
