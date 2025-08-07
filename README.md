@@ -22,10 +22,13 @@ HTML • CSS • JavaScript • React (در حال یادگیری)
 🛠 ابزارها:
 Git • GitHub • VS Code • Figma • Chrome DevTools
 
+```
+
+<hr>
+
 <h1 align="center">Hi, I'm Saman 👋</h1>
 <h3 align="center">🎓 Software Engineering Student | 🌱 Front-End Developer in Progress</h3>
 
----
 
 ## 👨‍🎓 About Me
 
@@ -35,7 +38,6 @@ Git • GitHub • VS Code • Figma • Chrome DevTools
 - 🚀 My goal is to become a professional React developer with strong JavaScript knowledge
 - 🤝 Open to learning, collaboration, and contributing to open-source projects
 
----
 
 ## 🛠 Tech Stack
 
