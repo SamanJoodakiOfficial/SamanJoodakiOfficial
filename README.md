@@ -21,39 +21,3 @@ HTML • CSS • JavaScript • React (در حال یادگیری)
 
 🛠 ابزارها:
 Git • GitHub • VS Code • Figma • Chrome DevTools
-📬 ارتباط با من:
-📧 جیمیل: samanjoodakiofficial@gmail.com
-
-💬 تلگرام: @Samanjoodaki2
-
-📸 اینستاگرام: @saman22doz
-
-🇬🇧 About Me (English)
-👨‍🎓 Who Am I?
-🎓 Software engineering student at National Skill University – Sari Branch (Imam Mohammad Baqir)
-
-🌱 Currently developing my skills in Front-End Development
-
-💻 Passionate about building clean UI, learning modern tools, and growing in the tech industry
-
-🚀 My goal is to become a skilled React developer with a strong foundation in JavaScript
-
-🤝 Open to collaboration and open-source contributions
-
-🧰 Tech Stack:
-plaintext
-Copy
-Edit
-Languages & Technologies:
-HTML • CSS • JavaScript • React (Learning)
-
-Tools:
-Git • GitHub • VS Code • Figma • Chrome DevTools
-📱 Contact Me:
-📧 Gmail: samanjoodakiofficial@gmail.com
-
-💬 Telegram: @Samanjoodaki2
-
-📸 Instagram: @saman22doz
-
-📊 GitHub Stats:
